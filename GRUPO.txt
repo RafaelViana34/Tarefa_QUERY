@@ -1,0 +1,9 @@
+GRUPO: [NOME DO GRUPO]
+
+INTEGRANTES
+RA ............ NOME COMPLETO
+RA ............ NOME COMPLETO
+RA ............ NOME COMPLETO
+
+Disciplina: [NOME DA DISCIPLINA]
+Atividade: Consultas com QUERY e POST + filtros com fetch() (projeto ScrapCash)
